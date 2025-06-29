@@ -289,3 +289,11 @@ CODTECH IT SOLUTIONS
 ---
 
 *This project represents a comprehensive learning journey in frontend web development, combining clean design principles with interactive functionality to create an engaging user experience.*
+
+OUTPUT :
+
+![Screenshot (65)](https://github.com/user-attachments/assets/dee2cc50-d945-47bf-a524-df3bb85c888b)
+![Screenshot (64)](https://github.com/user-attachments/assets/d6fbcfdd-d516-4f4d-94ca-e3ce4b5cb260)
+![Screenshot (63)](https://github.com/user-attachments/assets/d17bd158-93e3-4cc4-8d87-c472cab7eb5c)
+![Screenshot (61)](https://github.com/user-attachments/assets/e6f957c4-ec07-4174-a62c-6b2e6f1c540f)
+
